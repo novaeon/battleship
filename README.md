@@ -9,7 +9,6 @@ This repository contains a simple implementation of the classic Battleship game.
 - [How to Play](#how-to-play)
 - [Classes and Files](#classes-and-files)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -79,7 +78,3 @@ Ship.java
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
