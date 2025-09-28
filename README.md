@@ -8,14 +8,8 @@ This repository contains a simple implementation of the classic Battleship game.
 - [Project Structure](#project-structure)
 - [How to Play](#how-to-play)
 - [Classes and Files](#classes-and-files)
-- [Contributing](#contributing)
 
 ## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- An IDE or text editor (e.g., Visual Studio Code, IntelliJ IDEA)
 
 ### Running the Game
 
@@ -74,7 +68,3 @@ Ship.java
 - **[Player.java](Player.java)**: Manages the player's ships and guesses.
 - **[Server.java](Server.java)**: Handles server-side logic and manages the game flow.
 - **[Ship.java](Ship.java)**: Represents a ship and its properties.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
